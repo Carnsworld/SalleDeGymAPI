@@ -1,0 +1,6 @@
+@SalleDeGymAPI_HostAddress = http://localhost:5209
+
+GET {{SalleDeGymAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
